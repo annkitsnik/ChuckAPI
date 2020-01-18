@@ -1,0 +1,17 @@
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.exe
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.deps.json
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.runtimeconfig.dev.json
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.dll
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.pdb
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.csproj.CopyComplete
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.dll
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.pdb
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Kasutaja\Desktop\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Nancy.dll
